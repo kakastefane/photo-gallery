@@ -1,0 +1,7 @@
+.footer {
+    @apply p-6 mt-6 border-t;
+}
+
+.text {
+    @apply max-w-4xl mx-auto;
+}
